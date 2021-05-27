@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lk-task type="AAT" >
+        <options auto-advance="true" length="" >
+                <rules>
+                        <finish fai-height="false" min-height="0" />
+                        <start max-height="" max-height-margin="0" max-speed="0" max-speed-margin="0" height-ref="" />
+                </rules>
+        </options>
+        <taskpoints>
+                <point idx="0" name="" type="" radius="" lock="false" offset-radius="0.0" offset-radial="0.0" />              
+        </taskpoints>
+        <waypoints>
+                <point name="" latitude="" longitude="-" altitude="" comment="Alt. limits=0-1500" flags="5" format="2" freq="123.500" runwayLen="1200" runwayDir="151" style="2" />             
+        </waypoints>
+</lk-task>
